@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+ <html lang="kz-KZ">
+   <head>
+     <meta charset="utf-8"
+       <title> Анкета
+       </title>
+   </head>
+<body>
+       <h1 style="text-align: center;"> Қысқаша ақпарат</h1>
+       <h1 style="text-align: center;"> Вердана Анар Асерқызы</h1>
+        <img src="DAN00303.jpg" alt="photo" height="200" width="200">
+</body>
+</html>

@@ -1,0 +1,30 @@
+th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: lightsteelblue;
+}
+
+th{
+    text-align: left;
+}
+.blue{
+    background-color: #82c9e0;
+}
+
+table{
+    border-spacing: 2px;
+}
+
+.radius{
+    border-radius: 25px 0px 0px 0px;
+}
+.radius3{
+    border-radius: 0px 0px 0px 25px;
+}
+.radius2{
+    border-radius: 0px 25px 0px 0px;
+}
+.radius4{
+    border-radius: 0px 0px 25px 0px;
+}

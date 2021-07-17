@@ -1,0 +1,34 @@
+h1{
+	color: pink;
+	font-size: 22px;
+}
+p{
+	font-family: futura;
+	background-color: salmon; 
+	text-align: center;
+	color: black;
+	opacity: 1;
+}
+body{
+	background-color: #90ee90;
+}
+#anar{
+	background-color: lightpink;
+	border: 1px solid lightblue;
+	font-family: verdana;
+}
+#week3{
+	color: rgba(255,192,203,0.5);
+	border: 12px solid black;
+}
+
+.left{
+	text-align: left;
+}
+h1.left{
+	color: red;
+}
+*{
+	font-family: courier;
+	font-size: 55px;
+}

@@ -1,0 +1,38 @@
+.opacity-07{
+	opacity:0.7;
+	font-size: 15px;
+}
+.adress{
+	font-size: 15px;
+	padding-top: 20px;
+	margin-left:180px;
+}
+.заголовка{
+	color: #212eab;
+	font-size: 24px;
+	margin-left: 180px;
+}
+.opacity-07-1{
+	opacity:0.8;
+	font-size: 16px;
+    margin-left: 200px
+}
+.google{
+	font-size: 25px;
+	padding: 2px;
+	font-weight: bold;
+}
+h2{
+	font-weight: normal;
+	margin-left: 180px;
+}
+h3{
+	margin-left: 180px;
+	font-weight: normal;
+}
+#opt{
+	opacity: 0.3;
+	margin-left: 180px;
+}
+
+	

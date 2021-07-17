@@ -1,0 +1,41 @@
+.static{
+    position: static;
+    left: 60px;
+    border: 3px solid #ffa;
+}
+.relative{
+    position: relative;
+    border: 3px solid #ffa;
+    width: 400px;
+    height: 200px;
+    left: 60px;
+}
+.Absolute{
+    position: absolute;
+    border: 3px solid #ffa;
+    top: 80px;
+    right: 0px;
+    width: 200px;
+    height: 100px;
+}
+.Fixed{
+    position: fixed;
+    border: 3px solid #ffa;
+    width: 400px;
+    height: 200px;
+    bottom: 0;
+    right: 0;
+}
+.Sticky{
+    position: -webkit-sticky;
+    border: 3px solid #ffa;
+    top: 0;
+    padding: 5px;
+    background-color: #cae8ca;
+}
+
+img{
+    position: absolute;
+    left: 0;
+    z-index: -1;
+}

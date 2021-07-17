@@ -1,0 +1,7 @@
+body{
+	background-image: url("moon_PNG20.png");
+	background-size: 800px;
+	background-repeat: repeat-y;
+	background-position: right top;
+	background-attachment: scroll;
+}

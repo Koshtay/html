@@ -1,0 +1,13 @@
+h1{
+	color: pink;
+	font-size: 22px;
+}
+p{
+	font-family: courier;
+	background-color: black; 
+	text-align: right;
+	color: black;
+}
+body{
+	background-color: #90ee90;
+}
